@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">xml zad</string>
+    <string name="name_hint">Имя пользователя</string>
+    <string name="email_hint">Электронная почта</string>
+    <string name="message_hint">Ваше сообщение</string>
+    <string name="send_button">Отправить</string>
+    <string name="cancel_button">Отмена</string>
+</resources>
